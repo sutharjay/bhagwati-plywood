@@ -1,0 +1,55 @@
+body{
+    background-image:  url("back ground image.jpg");
+    background-size: 100% ;
+}
+
+.learnmore{
+ color:white;
+ background-color:black;
+ padding:8px 16px;
+ text-decoration: none;
+
+ 
+}
+.learnmore:hover{
+    background-color: gray;
+    cursor:pointer;
+    color: white;
+}
+
+
+.nature{
+border: 5px solid white ;
+border-radius: 15%;
+
+}
+
+.product-title{
+text-align: center;
+font-style: bold;
+font-size: 50px;
+color: white;
+font-family: 'Bebas Neue', cursive;;
+}
+
+.product-section{
+
+background-color: black;
+
+}
+.w3-container{
+    background-color: gray;
+    border: 1px solid gray;
+}
+.text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+
+  
+  
